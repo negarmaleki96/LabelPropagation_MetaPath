@@ -26,7 +26,7 @@ We introduce **Meta-paths + LPA**, a generalization of the Label Propagation Alg
 
 ## Repository Structure
 ```
-├── data/                  # Datasets (Steemit + benchmarks)
+├── data/                  # Datasets (Steemit data)
 ├── code/                 # Graph construction + algorithms
 └── README.md
 ```
